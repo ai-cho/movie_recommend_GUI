@@ -43,3 +43,14 @@ The original data is from Kaggle, consisting of two CSV files: one with (movie_i
 
 ### Step 6
 - Click on favorites view to check the saved movies
+
+
+![image](https://github.com/ai-cho/movie_recommend_GUI/assets/120773889/453f930e-12df-4d50-acd9-2e56c971cdf9)
+
+![image](https://github.com/ai-cho/movie_recommend_GUI/assets/120773889/d2706133-ca13-4656-b0db-45a6145c14f2)
+
+![image](https://github.com/ai-cho/movie_recommend_GUI/assets/120773889/8e243f3a-2da5-4888-a56a-8f0b393a14cf)
+
+![image](https://github.com/ai-cho/movie_recommend_GUI/assets/120773889/021898a5-8323-4fba-af72-e9f86d94c6bb)
+
+![image](https://github.com/ai-cho/movie_recommend_GUI/assets/120773889/5386a492-e05e-4385-8f70-8ab0ce9b2c71)
